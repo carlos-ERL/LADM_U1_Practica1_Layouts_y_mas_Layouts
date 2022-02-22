@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LADM_U1_Practica1_Layouts_y_mas_layouts</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Mensajes</string>
+    <string name="sync_header">Sincronizacion</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Ingresa tu numero</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Enviar Correos</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Redes Sociales</string>
+    <string name="tab_text_2">Más informacion</string>
+
+    <array name="opcionesmenu">
+        <item>Configuracion</item>
+        <item>Mas opciones</item>
+        <item> Acerca de.... </item>
+        <item> Salir </item>
+    </array>
+</resources>
